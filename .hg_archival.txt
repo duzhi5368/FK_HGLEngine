@@ -1,0 +1,6 @@
+repo: e129a4bdde9aa92ac9df33748357fa3f307af8cf
+node: 6d72d91d8ddc43d2e104226a90e2a095fb254c6f
+branch: 切分VAO
+latesttag: null
+latesttagdistance: 661
+changessincelatesttag: 704
